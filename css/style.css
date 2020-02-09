@@ -1,0 +1,18 @@
+h1 {
+    color: yellowgreen;
+    font-size: 36px;
+}
+/* classで始めるときは［.］をつける。最後にはセミコロンを忘れずに */
+.a {
+    color:skyblue;
+    font-size: 28px;
+    font-weight: bold;
+}
+/* px単位等を忘れずに */
+
+.b {
+    color:darkslategray;
+    font-size:20px;
+    font-weight: bold;
+
+}
